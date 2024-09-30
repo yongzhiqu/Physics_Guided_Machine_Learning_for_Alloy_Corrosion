@@ -1,4 +1,4 @@
-# Alloy Corrosion Prediction with Neural Networks
+# Alloy Corrosion Prediction with Physics Guided Neural Networks
 
 Welcome to the **Alloy Corrosion Prediction** repository! This project leverages neural networks to predict material properties, featuring both a Physics-Constrained Neural Network (PCNN) and a Traditional Neural Network (NN) for comprehensive analysis.
 
