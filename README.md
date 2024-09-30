@@ -25,11 +25,7 @@ Ensure the dataset file corrosion_data.xlsx is placed in the root directory of t
 
 ## Train Models:
 
-Physics-Constrained NN:
+For Physics-Constrained NN train with Alloy_PINN.py
 
-Alloy_PINN.py
-
-Traditional NN:
-
-Alloy_NN.py
+For traditional NN, train with Alloy_NN.py
 
